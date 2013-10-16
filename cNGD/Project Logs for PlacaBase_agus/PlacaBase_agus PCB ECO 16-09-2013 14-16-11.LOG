@@ -1,0 +1,5 @@
+Added Component: Designator=SW2(HDR1X3)
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=Netconv3.3_3 Pin=SW2-2
+Added Pin To Net: NetName=VCC5.0_POWER Pin=SW2-3
+Added Member To Class: ClassName=POWER SUPPLY Member=Component SW2 sw_conv3.3

@@ -1,0 +1,51 @@
+MRF49XA GENERICO
+C2: Condensador cerámico SMT 10nF 50Vdc - CodigoRS: 723-4982
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7234982/
+C3: Tant Cap 2.2uF 10V - Codigo RS: 538-2284
+http://es.rs-online.com/web/p/condensadores-de-tantalo/5382284/
+X1: TXC - 7B-10.000MEEQ-T - QUARTZ CRYSTAL, 10MHZ, 10PF, SMD - Código Farnell:
+2061713
+http://es.farnell.com/txc/7b-10-000meeq-t/quartz-crystal-10mhz-10pf-smd/dp/2061713?Ntt=2061713
+U1: 433/868/915 MHz Radio Transceiver IC - Código RS: 681-1070
+http://es.rs-online.com/web/p/transceptores-para-rf/6811070
+J1: JOHNSON/EMERSON - 142-0711-201 - SMA HEMBRA, PCB LAUNCHER - Código Farnell: 1608600
+http://es.farnell.com/johnson-emerson/142-0711-201/sma-hembra-pcb-launcher/dp/1608600
+
+
+MRF49XA 433 MHz
+C1: Condensador cerámico SMT 200pF 50Vdc - Código RS: 723-5840
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7235840/
+C5: Condensador cerámico SMT 2,7pF 50Vdc  - Codigo RS: 723-5834
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7235834/
+C6: Cap, Ceramic,0603, 68pF - CodRS: 624-2373
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/6242373/
+C7: GQM 0603 C0G ceramic cap, 100V 5.1pF - CodRS: 647-7585
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/6477585/
+L1: WURTH ELEKTRONIK - 744761239A - INDUCTOR, 0603, 390NH, 0,1A - Código Farnell:
+1748790
+http://es.farnell.com/wurth-elektronik/744761239a/inductor-0603-390nh-0-1a/dp/1748790
+L2: Inductor SMD MLG 0603 33nH 500mA - CodRS: 741-3813
+http://es.rs-online.com/web/p/inductores-de-montaje-en-superficie-multicapa/7413813/
+L3: Inductor SMD MLG 0603 47nH 400mA - Código RS741-3826
+http://es.rs-online.com/web/p/inductores-de-montaje-en-superficie-multicapa/7413826
+ANTENA: Antena de latiguillo 433MHz 48mm SMA(M) - Código RS762-0030
+http://es.rs-online.com/web/p/antenas-rfid/7620030/
+
+MRF49XA 868 MHz
+C1: 0603 ceramic capacitor,COG,50V,33pF - Codigo RS: 653-0412
+ http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/6530412/
+C5: Condensador cerámico SMT 1,2pF 50Vdc - Código RS723-5755
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7235755
+C6: Condensador cerámico SMT 27pF 50Vdc - Código RS723-5871
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7235871
+C7: Condensador cerámico SMT 2,7pF 50Vdc - Codigo RS: 723-5843
+http://es.rs-online.com/web/p/condensadores-ceramicos-multicapa/7235843
+L1: Inductor SMD MLG 0603 100nH 300mA - Código RS741-3841
+http://es.rs-online.com/web/p/inductores-de-montaje-en-superficie-multicapa/7413841
+L2: 3640 Series Inductor 0603 8.2nH +-0.2nH - Código RS701-6970
+http://es.rs-online.com/web/p/inductores-de-montaje-en-superficie-multicapa/7016970/
+L3: Inductor SMD MLG 0603 22nH 500mA - Código RS741-3800
+http://es.rs-online.com/web/p/inductores-de-montaje-en-superficie-multicapa/7413800
+ANTENA:
+http://es.mouser.com/ProductDetail/Linx-Technologies/ANT-868-02A/?qs=sGAEpiMZZMuBTKBKvsBmlGYZF%2fpjPIqeYfr82FNUJWU%3d
+http://www.matlog.com/wireless/modules-zigbee-et-802154/antennes-868-mhz.html

@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=VCC5.0_POWER Pin=C9-2
+Removed Pin From Net: NetName=Neth1_00 Pin=h1-00
+Removed Pin From Net: NetName=Neth1_01 Pin=h1-01
+Removed Pin From Net: NetName=Neth1_02 Pin=h1-02
+Removed Pin From Net: NetName=Neth1_03 Pin=h1-03
+Removed Pin From Net: NetName=Neth1_04 Pin=h1-04
+Removed Pin From Net: NetName=VCC Pin=h1-05
+Removed Pin From Net: NetName=GND Pin=h1-06
+Removed Pin From Net: NetName=NetConector programador PGE_6 Pin=h1-07
+Removed Pin From Net: NetName=Neth1_08 Pin=h1-08
+Removed Pin From Net: NetName=Neth1_09 Pin=h1-09
+Removed Pin From Net: NetName=Neth1_10 Pin=h1-10
+Removed Pin From Net: NetName=Neth1_11 Pin=h1-11
+Removed Pin From Net: NetName=Neth1_12 Pin=h1-12
+Removed Pin From Net: NetName=GND Pin=h1-13
+Removed Pin From Net: NetName=Neth1_14 Pin=h1-14
+Removed Pin From Net: NetName=VCC5.0_POWER Pin=h1-15
+Removed Pin From Net: NetName=Net_3 Pin=h1-16
+Removed Pin From Net: NetName=Net_2 Pin=h1-17
+Removed Pin From Net: NetName=Net_4 Pin=h1-18
+Removed Pin From Net: NetName=Neth1_19 Pin=h1-19
+Removed Pin From Net: NetName=Neth1_20 Pin=h1-20
+Removed Pin From Net: NetName=Neth1_21 Pin=h1-21
+Removed Pin From Net: NetName=Neth1_22 Pin=h1-22
+Removed Pin From Net: NetName=Neth1_23 Pin=h1-23
+Removed Pin From Net: NetName=VCC Pin=h1-24
+Removed Pin From Net: NetName=Neth1_25 Pin=h1-25
+Removed Pin From Net: NetName=Neth1_26 Pin=h1-26
+Removed Pin From Net: NetName=Neth1_27 Pin=h1-27
+Removed Pin From Net: NetName=Neth1_28 Pin=h1-28
+Removed Pin From Net: NetName=VCC Pin=h1-29
+Removed Pin From Net: NetName=GND Pin=h1-30
+Removed Pin From Net: NetName=Neth1_31 Pin=h1-31
+Removed Pin From Net: NetName=Neth1_32 Pin=h1-32
+Removed Pin From Net: NetName=Neth1_33 Pin=h1-33
+Removed Pin From Net: NetName=Neth1_34 Pin=h1-34
+Removed Pin From Net: NetName=GND Pin=h1-35
+Removed Pin From Net: NetName=Neth1_36 Pin=h1-36
+Removed Pin From Net: NetName=Neth1_37 Pin=h1-37
+Removed Pin From Net: NetName=Neth1_38 Pin=h1-38
+Removed Pin From Net: NetName=Neth1_39 Pin=h1-39
+Removed Pin From Net: NetName=868RESET Pin=MRF49XAmboard-2
+Removed Pin From Net: NetName=868WAKE Pin=MRF49XAmboard-3
+Removed Pin From Net: NetName=868INT Pin=MRF49XAmboard-4
+Removed Pin From Net: NetName=868SDO Pin=MRF49XAmboard-5
+Removed Pin From Net: NetName=868SCK Pin=MRF49XAmboard-6
+Removed Pin From Net: NetName=868SDI Pin=MRF49XAmboard-7
+Removed Pin From Net: NetName=868CS Pin=MRF49XAmboard-8
+Removed Pin From Net: NetName=NetC12_2 Pin=MRF49XAmboard-10
+Removed Member From Class: ClassName=U_headers Member=h1
+Added Component: Designator=h40(header_cognitiveNGD)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=VCC5.0_POWER Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetA_SW_1 Pin=C12-2
+Added Pin To Net: NetName=Neth1_00 Pin=h40-00
+Added Pin To Net: NetName=Neth1_01 Pin=h40-01
+Added Pin To Net: NetName=Neth1_02 Pin=h40-02
+Added Pin To Net: NetName=Neth1_03 Pin=h40-03
+Added Pin To Net: NetName=Neth1_04 Pin=h40-04
+Added Pin To Net: NetName=VCC Pin=h40-05
+Added Pin To Net: NetName=GND Pin=h40-06
+Added Pin To Net: NetName=NetConector programador PGE_6 Pin=h40-07
+Added Pin To Net: NetName=Neth1_08 Pin=h40-08
+Added Pin To Net: NetName=Neth1_09 Pin=h40-09
+Added Pin To Net: NetName=Neth1_10 Pin=h40-10
+Added Pin To Net: NetName=Neth1_11 Pin=h40-11
+Added Pin To Net: NetName=Neth1_12 Pin=h40-12
+Added Pin To Net: NetName=GND Pin=h40-13
+Added Pin To Net: NetName=Neth1_14 Pin=h40-14
+Added Pin To Net: NetName=VCC5.0_POWER Pin=h40-15
+Added Pin To Net: NetName=Net_3 Pin=h40-16
+Added Pin To Net: NetName=Net_2 Pin=h40-17
+Added Pin To Net: NetName=Net_4 Pin=h40-18
+Added Pin To Net: NetName=Neth1_19 Pin=h40-19
+Added Pin To Net: NetName=Neth1_20 Pin=h40-20
+Added Pin To Net: NetName=Neth1_21 Pin=h40-21
+Added Pin To Net: NetName=Neth1_22 Pin=h40-22
+Added Pin To Net: NetName=Neth1_23 Pin=h40-23
+Added Pin To Net: NetName=VCC Pin=h40-24
+Added Pin To Net: NetName=Neth1_25 Pin=h40-25
+Added Pin To Net: NetName=Neth1_26 Pin=h40-26
+Added Pin To Net: NetName=Neth1_27 Pin=h40-27
+Added Pin To Net: NetName=Neth1_28 Pin=h40-28
+Added Pin To Net: NetName=VCC Pin=h40-29
+Added Pin To Net: NetName=GND Pin=h40-30
+Added Pin To Net: NetName=Neth1_31 Pin=h40-31
+Added Pin To Net: NetName=Neth1_32 Pin=h40-32
+Added Pin To Net: NetName=Neth1_33 Pin=h40-33
+Added Pin To Net: NetName=Neth1_34 Pin=h40-34
+Added Pin To Net: NetName=GND Pin=h40-35
+Added Pin To Net: NetName=Neth1_36 Pin=h40-36
+Added Pin To Net: NetName=Neth1_37 Pin=h40-37
+Added Pin To Net: NetName=Neth1_38 Pin=h40-38
+Added Pin To Net: NetName=Neth1_39 Pin=h40-39
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-1
+Added Pin To Net: NetName=434RESET Pin=MRF49XAmboard-2
+Added Pin To Net: NetName=868RESET Pin=MRF49XAmboard-2
+Added Pin To Net: NetName=434WAKE Pin=MRF49XAmboard-3
+Added Pin To Net: NetName=868WAKE Pin=MRF49XAmboard-3
+Added Pin To Net: NetName=434INT Pin=MRF49XAmboard-4
+Added Pin To Net: NetName=868INT Pin=MRF49XAmboard-4
+Added Pin To Net: NetName=434SDO Pin=MRF49XAmboard-5
+Added Pin To Net: NetName=868SDO Pin=MRF49XAmboard-5
+Added Pin To Net: NetName=434SCK Pin=MRF49XAmboard-6
+Added Pin To Net: NetName=868SCK Pin=MRF49XAmboard-6
+Added Pin To Net: NetName=434SDI Pin=MRF49XAmboard-7
+Added Pin To Net: NetName=868SDI Pin=MRF49XAmboard-7
+Added Pin To Net: NetName=434CS Pin=MRF49XAmboard-8
+Added Pin To Net: NetName=868CS Pin=MRF49XAmboard-8
+Added Pin To Net: NetName=NetC11_2 Pin=MRF49XAmboard-10
+Added Pin To Net: NetName=NetC12_2 Pin=MRF49XAmboard-10
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-11
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-12
+Change Net Name : Old Net Name=Neth1_00 New Net Name=Neth40_00
+Change Net Name : Old Net Name=Neth1_01 New Net Name=Neth40_01
+Change Net Name : Old Net Name=Neth1_02 New Net Name=Neth40_02
+Change Net Name : Old Net Name=Neth1_03 New Net Name=Neth40_03
+Change Net Name : Old Net Name=Neth1_04 New Net Name=Neth40_04
+Change Net Name : Old Net Name=Neth1_08 New Net Name=Neth40_08
+Change Net Name : Old Net Name=Neth1_09 New Net Name=Neth40_09
+Change Net Name : Old Net Name=Neth1_10 New Net Name=Neth40_10
+Change Net Name : Old Net Name=Neth1_11 New Net Name=Neth40_11
+Change Net Name : Old Net Name=Neth1_12 New Net Name=Neth40_12
+Change Net Name : Old Net Name=Neth1_14 New Net Name=Neth40_14
+Change Net Name : Old Net Name=Neth1_19 New Net Name=Neth40_19
+Change Net Name : Old Net Name=Neth1_20 New Net Name=Neth40_20
+Change Net Name : Old Net Name=Neth1_21 New Net Name=Neth40_21
+Change Net Name : Old Net Name=Neth1_22 New Net Name=Neth40_22
+Change Net Name : Old Net Name=Neth1_23 New Net Name=Neth40_23
+Change Net Name : Old Net Name=Neth1_25 New Net Name=Neth40_25
+Change Net Name : Old Net Name=Neth1_26 New Net Name=Neth40_26
+Change Net Name : Old Net Name=Neth1_27 New Net Name=Neth40_27
+Change Net Name : Old Net Name=Neth1_28 New Net Name=Neth40_28
+Change Net Name : Old Net Name=Neth1_31 New Net Name=Neth40_31
+Change Net Name : Old Net Name=Neth1_32 New Net Name=Neth40_32
+Change Net Name : Old Net Name=Neth1_33 New Net Name=Neth40_33
+Change Net Name : Old Net Name=Neth1_34 New Net Name=Neth40_34
+Change Net Name : Old Net Name=Neth1_36 New Net Name=Neth40_36
+Change Net Name : Old Net Name=Neth1_37 New Net Name=Neth40_37
+Change Net Name : Old Net Name=Neth1_38 New Net Name=Neth40_38
+Change Net Name : Old Net Name=Neth1_39 New Net Name=Neth40_39
+Added Member To Class: ClassName=U_headers Member=Component h40 header_cognitiveNGD

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=hd40-06
+Removed Pin From Net: NetName=Nethd40_20 Pin=hd40-20
+Removed Pin From Net: NetName=VCC Pin=hd40-29
+Removed Pin From Net: NetName=Nethd40_39 Pin=hd40-39
+Removed Pin From Net: NetName=Nethd40_04 Pin=J3_3.3V-1
+Removed Pin From Net: NetName=Nethd40_04 Pin=SW1-3
+Removed Pin From Net: NetName=Nethd40_39 Pin=U1-3
+Removed Pin From Net: NetName=Nethd40_38 Pin=U1-4
+Removed Pin From Net: NetName=Nethd40_37 Pin=U1-5
+Removed Pin From Net: NetName=Nethd40_36 Pin=U1-6
+Removed Pin From Net: NetName=Nethd40_20 Pin=U1-71
+Removed Pin From Net: NetName=Nethd40_21 Pin=U1-83
+Added Pin To Net: NetName=Nethd40_39 Pin=hd40-06
+Added Pin To Net: NetName=VCC Pin=hd40-20
+Added Pin To Net: NetName=Nethd40_20 Pin=hd40-29
+Added Pin To Net: NetName=GND Pin=hd40-39
+Added Pin To Net: NetName=Nethd40_20 Pin=J3_3.3V-1
+Added Pin To Net: NetName=Nethd40_20 Pin=SW1-3
+Added Pin To Net: NetName=Nethd40_38 Pin=U1-3
+Added Pin To Net: NetName=Nethd40_37 Pin=U1-4
+Added Pin To Net: NetName=Nethd40_39 Pin=U1-5
+Added Pin To Net: NetName=Nethd40_04 Pin=U1-6
+Added Pin To Net: NetName=Nethd40_21 Pin=U1-71
+Added Pin To Net: NetName=Nethd40_36 Pin=U1-83
+Change Net Name : Old Net Name=Nethd40_20 New Net Name=Nethd40_29
+Change Net Name : Old Net Name=Nethd40_39 New Net Name=Nethd40_06

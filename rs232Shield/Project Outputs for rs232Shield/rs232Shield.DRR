@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: rs232Shield.PcbDoc   3/7/2013  2:37:58 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : rs232Shield.TXT
+EIA File   : rs232Shield.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          2                1.49 mm (0.06 Inch)
+T2        0.65mm (25.591mil)       Round          40               153.29 mm (6.04 Inch)
+T3        1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
+T4        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
+---------------------------------------------------------------------------
+Totals                                            53               202.33 mm (7.97 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

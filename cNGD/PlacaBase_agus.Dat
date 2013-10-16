@@ -1,0 +1,24 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PlacaBase_agus.PrjPcb|ReportField=ProjectFullPath~C:\Users\agus\Desktop\pfc\altium\pcb\PlacaBase_agus.PrjPcb|ReportField=Title~Bill of Materials For Project [PlacaBase_agus.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~56|ReportField=ReportTime~11:15:57 AM|ReportField=ReportDate~2/11/2013|ReportField=ReportDateTime~2/11/2013 11:15:57 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/11/2013|ReportField=CurrentTime~11:15:50 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\agus\Desktop\pfc\altium\pcb\PlacaBase_agus.SchDoc|ReportField=DocumentName~PlacaBase_agus.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/31/2013|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1|ReportField=ProjectName~PlacaBase_agus.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PlacaBase_agus.PrjPcb|ReportField=DataSourceFullPath~C:\Users\agus\Desktop\pfc\altium\pcb\PlacaBase_agus.PrjPcb
+J1_microUSB|||microUSB AB|USB micro AB|1
+BATTERY||bat 3.6|BATTERY HOLDER|BATTERY|1
+Cap|Capacitor|C1, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18|1608[0603]|Cap|17
+C Pol|Polarized Capacitor (Surface Mount)|C2|1206[3216]|C Pol|1
+MCP1603T-330I/OS|500mA Synchronous Buck Regulator, 3.3V, 2.0 MHz, 5-Pin TSOT, Industrial Temperature, Tape and Reel|conv3.3|TSOT-OS5_N|MCP1603T-330I/OS|1
+header_cognitiveNGD||hd40|header_cognitiveNGD|header_cognitiveNGD|1
+terminal block|Terminal Block 2 vías, 5mm|J2_5V|Conector ED-1631|Conector ED-1631|1
+dc conn||J3_3.3V|DC Connector|DC Connector|1
+L|Inductor|L1|CD3225-1210|L|1
+LED_SMD_Hg|Typical BLUE SiC LED|LED1, LED2, LED3, LED4r, LED5g|1608[0603]|LED_SMD_Hg|5
+MRF24J40MA|Microchip RF radio|MRF24J40MA|MRF24J40MA|MRF24J40MA|1
+434trans|Microchip RF radio|MRF49XAmboard_434|MRF49XAmboard|MRF49XAmboard|1
+868trans|Microchip RF radio|MRF49XAmboard_868|MRF49XAmboard|MRF49XAmboard|1
+ADG701BRTZ||PC_434, PC_868, PC_2400|SOT23-6_L|ADG701BRTZ|3
+RJ12|Conector RJ-12|PGE|RJ12|RJ12|1
+R|Resistor|R1, R4, R5, R6, R7, R8, R9, R12, R13, R15|1608[0603]|R|10
+Res1|Resistor|R2, R14|1608[0603]|Res1|2
+Pulsador|Switch|S2, S3|Pulsador|Pulsador|2
+S1|Switch|s1_rst|Pulsador|Pulsador|1
+switch vcc|Header, 3-Pin|SW1|SWITCH-2|SWITCH-2|1
+PIC32MX675F512L-80I/PT|High Performance 80 MHz MIPS-Based 32-Bit Flash Microcontroller with USB and Ethernet, 512KB Program Memory, 100-pin TQFP, Industrial Temperature|U1|TQFP-PT100_N|PIC32MX675F512L-80I/PT|1
+32,728K|Crystal Oscillator|Y1|BCY-W2/D3.1|XTAL_2PINS|1
+8M|Crystal Oscillator|Y2|49_SMD_8Mhz|XTAL_2PINS|1

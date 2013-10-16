@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC5.0_POWER Pin=LED4r-1
+Removed Pin From Net: NetName=NetLED4r_2 Pin=LED4r-2
+Removed Pin From Net: NetName=NetLED4r_2 Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetLED4r_2 Pin=LED4r-1
+Added Pin To Net: NetName=GND Pin=LED4r-2
+Added Pin To Net: NetName=VCC5.0_POWER Pin=R14-1
+Added Pin To Net: NetName=NetLED4r_2 Pin=R14-2
+Change Net Name : Old Net Name=NetLED4r_2 New Net Name=NetLED4r_1

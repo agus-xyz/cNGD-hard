@@ -1,0 +1,148 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\agus\Dropbox\pfc\altium\transceiver\MRF49XAmboard.PcbDoc
+Date     : 7/10/2013
+Time     : 4:13:16 PM
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (-6.903mm,6.066mm)(-5.985mm,6.066mm)  Bottom Layer
+   Violation between Net Antennae: Track (-7.177mm,4.923mm)(-5.985mm,4.923mm)  Bottom Layer
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "IRO" (-6.985mm,5.715mm)  Top Overlay and 
+                     Arc (-6.691mm,6.095mm)  Top Overlay
+   Violation between Text "INT" (-6.985mm,8.128mm)  Top Overlay and 
+                     Track (-6.691mm,7.47mm)(-6.691mm,7.945mm)  Top Overlay
+   Violation between Text "IRO" (-6.985mm,5.715mm)  Top Overlay and 
+                     Track (-6.691mm,7.47mm)(-6.691mm,7.945mm)  Top Overlay
+   Violation between Text "SDI" (-6.985mm,3.175mm)  Top Overlay and 
+                     Track (-6.691mm,4.32mm)(-4.981mm,4.32mm)  Top Overlay
+   Violation between Text "IRO" (-6.985mm,5.715mm)  Top Overlay and 
+                     Track (-6.691mm,4.32mm)(-6.691mm,5.933mm)  Top Overlay
+   Violation between Text "SDI" (-6.985mm,3.175mm)  Top Overlay and 
+                     Track (-6.691mm,4.32mm)(-6.691mm,5.933mm)  Top Overlay
+   Violation between Text "IRO" (-6.985mm,5.715mm)  Top Overlay and 
+                     Track (-6.691mm,6.257mm)(-6.691mm,7.46mm)  Top Overlay
+   Violation between Text "INT" (-6.985mm,8.128mm)  Top Overlay and 
+                     Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay
+   Violation between Text "868" (6.35mm,17.653mm)  Top Overlay and 
+                     Text "/" (5.588mm,17.399mm)  Top Overlay
+   Violation between Text "FINT" (6.858mm,10.287mm)  Top Overlay and 
+                     Text "FSEL" (6.858mm,7.493mm)  Top Overlay
+   Violation between Text "Agustin Tena Garcia" (5.842mm,15.621mm)  Bottom Overlay and 
+                     Text "agus@die.upm.es" (7.112mm,15.748mm)  Bottom Overlay
+Rule Violations :11
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0.254mm) (All),(All)
+   Violation between Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-16(-6.366mm,9.045mm)  Top Layer
+   Violation between Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-15(-5.716mm,9.045mm)  Top Layer
+   Violation between Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-14(-5.066mm,9.045mm)  Top Layer
+   Violation between Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-13(-4.416mm,9.045mm)  Top Layer
+   Violation between Track (-6.691mm,7.945mm)(-3.276mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-12(-3.766mm,9.045mm)  Top Layer
+   Violation between Track (-3.276mm,7.945mm)(-1.491mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-11(-3.116mm,9.045mm)  Top Layer
+   Violation between Track (-3.276mm,7.945mm)(-1.491mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-10(-2.466mm,9.045mm)  Top Layer
+   Violation between Track (-3.276mm,7.945mm)(-1.491mm,7.945mm)  Top Overlay and 
+                     Pad MRF49XA-9(-1.816mm,9.045mm)  Top Layer
+   Violation between Text "R1" (1.286mm,15.905mm)  Top Overlay and 
+                     Pad R1-2(1.078mm,15.113mm)  Top Layer
+   Violation between Text "R1" (1.286mm,15.905mm)  Top Overlay and 
+                     Pad R1-1(2.478mm,15.113mm)  Top Layer
+   Violation between Text "PWR" (4.064mm,15.875mm)  Top Overlay and 
+                     Pad PWR-2(6.034mm,15.113mm)  Top Layer
+   Violation between Text "PWR" (4.064mm,15.875mm)  Top Overlay and 
+                     Pad PWR-1(4.634mm,15.113mm)  Top Layer
+Rule Violations :12
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Via (-4.416mm,10.974mm) Top Layer to Bottom Layer and 
+                     Via (-3.429mm,11.938mm) Top Layer to Bottom Layer
+   Violation between Via (-2.54mm,10.795mm) Top Layer to Bottom Layer and 
+                     Via (-3.429mm,11.938mm) Top Layer to Bottom Layer
+   Violation between Via (-4.715mm,6.066mm) Top Layer to Bottom Layer and 
+                     Via (-4.715mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Via (-2.175mm,6.075mm) Top Layer to Bottom Layer and 
+                     Via (-2.175mm,4.923mm) Top Layer to Bottom Layer
+   Violation between Via (-2.175mm,6.075mm) Top Layer to Bottom Layer and 
+                     Via (-2.175mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Via (-3.445mm,6.066mm) Top Layer to Bottom Layer and 
+                     Via (-3.445mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Via (-5.985mm,6.066mm) Top Layer to Bottom Layer and 
+                     Via (-5.985mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Via (-3.445mm,4.923mm) Top Layer to Bottom Layer and 
+                     Via (-3.445mm,6.066mm) Top Layer to Bottom Layer
+   Violation between Via (-4.715mm,4.923mm) Top Layer to Bottom Layer and 
+                     Via (-4.715mm,6.066mm) Top Layer to Bottom Layer
+   Violation between Via (-5.985mm,4.923mm) Top Layer to Bottom Layer and 
+                     Via (-5.985mm,6.066mm) Top Layer to Bottom Layer
+Rule Violations :10
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=1mm) (All)
+   Violation between Hole Size Constraint: Pad J1-5(-2.54mm,22.987mm)  Multi-Layer
+   Violation between Hole Size Constraint: Pad J1-2(2.54mm,22.987mm)  Multi-Layer
+   Violation between Hole Size Constraint: Pad J1-3(2.54mm,28.067mm)  Multi-Layer
+   Violation between Hole Size Constraint: Pad J1-4(-2.54mm,28.067mm)  Multi-Layer
+   Violation between Hole Size Constraint: Pad J1-1(0mm,25.527mm)  Multi-Layer
+   Violation between Hole Size Constraint: Via (-8.906mm,11.654mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-8.906mm,14.194mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-5.08mm,1.524mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,9.114mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-8.906mm,1.494mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-8.904mm,4.034mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-8.906mm,6.574mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-8.906mm,9.114mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,1.496mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,4.034mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,6.574mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,14.194mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (8.874mm,11.654mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-4.715mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-2.175mm,4.923mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-2.175mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-2.175mm,6.075mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-3.445mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-5.985mm,7.209mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-3.445mm,6.066mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-4.715mm,6.066mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-4.715mm,4.923mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-5.985mm,6.066mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-5.985mm,4.923mm) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint: Via (-3.445mm,4.923mm) Top Layer to Bottom Layer
+Rule Violations :30
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=1mm) (Preferred=0.4mm) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 65
+Time Elapsed        : 00:00:00

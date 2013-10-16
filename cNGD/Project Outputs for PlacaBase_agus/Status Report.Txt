@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PlacaBase_agus.PrjPcb]
+   Generated File[PlacaBase_agus.TXT]
+   Generated File[PlacaBase_agus.DRL]
+   Generated File[PlacaBase_agus.LDP]
+   Generated File[PlacaBase_agus.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 2:37:09 PM On 3/7/2013

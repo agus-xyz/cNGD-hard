@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-3
+Change Component DesignItemId : Designator=hd40 Old DesignItemId=header_cognitiveNGD_shields New DesignItemId=header_cognitiveNGD
+Change Component Comment : Designator=hd40 Old Comment=header_cognitiveNGD_shields New Comment=header_cognitiveNGD_shield
+Change Component Library : Designator=hd40 Old Library=agus_lib.IntLib New Library=PlacaBase_agus.SCHLIB
+Added Pin To Net: NetName=NetC2_1 Pin=U1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3

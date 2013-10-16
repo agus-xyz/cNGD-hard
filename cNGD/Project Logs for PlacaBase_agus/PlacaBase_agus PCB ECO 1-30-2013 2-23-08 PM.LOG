@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_MCU Member=C10
+Removed Member From Class: ClassName=U_transc_MIWI868 Member=C16
+Removed Member From Class: ClassName=U_transc_MIWI2400 Member=C16
+Added Pin To Net: NetName=NetMRF49XAmboard_868_2 Pin=MRF49XAmboard_868-2
+Added Pin To Net: NetName=NetMRF49XAmboard_868_3 Pin=MRF49XAmboard_868-3
+Added Pin To Net: NetName=NetMRF49XAmboard_868_4 Pin=MRF49XAmboard_868-4
+Added Pin To Net: NetName=NetMRF49XAmboard_868_5 Pin=MRF49XAmboard_868-5
+Added Pin To Net: NetName=NetMRF49XAmboard_868_6 Pin=MRF49XAmboard_868-6
+Added Pin To Net: NetName=NetMRF49XAmboard_868_7 Pin=MRF49XAmboard_868-7
+Added Pin To Net: NetName=NetMRF49XAmboard_868_8 Pin=MRF49XAmboard_868-8
+Added Pin To Net: NetName=NetC13_2 Pin=MRF49XAmboard_868-10
+Added Member To Class: ClassName=U_MCU Member=Component C9 Cap
+Added Member To Class: ClassName=U_transc_MIWI868 Member=Component C13 Cap
+Added Member To Class: ClassName=U_transc_MIWI2400 Member=Component C14 Cap
+Added Member To Class: ClassName=U_oscillators Member=Component C15 Cap

@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=MRF49XA-11
+Added Pin To Net: NetName=NetC7_2 Pin=MRF49XA-12
+Added Pin To Net: NetName=NetC5_2 Pin=MRF49XA-13
+Added Pin To Net: NetName=VCC Pin=MRF49XA-14
+Change Net Name : Old Net Name=NetC5_2 New Net Name=RF_NEG
+Change Net Name : Old Net Name=NetC7_2 New Net Name=RF_POS
+Change Net Name : Old Net Name=NetC9_1 New Net Name=RSSIO
+Change Net Name : Old Net Name=NetMRF49XA_9 New Net Name=XTAL
+Added Pin To Net: NetName=RESET Pin=MRF49XA-10
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=MRF49XA-2
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDI Pin=MRF49XA-1
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=MRF49XA-4
+Added Net: Name=SDO
+Added Pin To Net: NetName=WAKE Pin=MRF49XA-16
+Added Net: Name=WAKE

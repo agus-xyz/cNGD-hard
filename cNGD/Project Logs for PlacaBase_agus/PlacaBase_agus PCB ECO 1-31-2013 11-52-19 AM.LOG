@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Member To Class: ClassName=U_power_supply Member=Component bat 3.6 BATTERY
+Added Member To Class: ClassName=U_power_supply Member=Component C10 Cap
+Added Member To Class: ClassName=U_power_supply Member=Component C11 Cap
+Added Member To Class: ClassName=U_power_supply Member=Component conv3.3 MCP1603T-330I/OS
+Added Member To Class: ClassName=U_power_supply Member=Component R15 R
+Added Member To Class: ClassName=U_power_supply Member=Component  J1_microUSB

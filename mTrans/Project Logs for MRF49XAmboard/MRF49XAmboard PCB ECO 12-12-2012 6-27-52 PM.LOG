@@ -1,0 +1,62 @@
+Added Component: Designator=C1(1608[0603])
+Added Component: Designator=C2(1608[0603])
+Added Component: Designator=C3(CAPC3216N)
+Added Component: Designator=C5(1608[0603])
+Added Component: Designator=C6(1608[0603])
+Added Component: Designator=C7(1608[0603])
+Added Component: Designator=C8(1608[0603])
+Added Component: Designator=C9(1608[0603])
+Added Component: Designator=D1(1608[0603])
+Added Component: Designator=J1(19-46-2_A)
+Added Component: Designator=L1(1608[0603])
+Added Component: Designator=L2(1608[0603])
+Added Component: Designator=L3(1608[0603])
+Added Component: Designator=MRF49XA(MRF49XA)
+Added Component: Designator=R1(1608[0603])
+Added Component: Designator=X1(XTC CRYSTAL)
+Added Pin To Net: NetName=CS Pin=MRF49XA-3
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=INT Pin=MRF49XA-5
+Added Net: Name=INT
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=NetC5_1 Pin=L3-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=L2-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=J1-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=L2-1
+Added Pin To Net: NetName=NetC7_2 Pin=L3-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=MRF49XA-15
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetMRF49XA_9 Pin=MRF49XA-9
+Added Pin To Net: NetName=NetMRF49XA_9 Pin=X1-1
+Added Net: Name=NetMRF49XA_9
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=L1-2
+Added Net: Name=VCC
+Added Class: Name=MRF49XAmboard
+Added Room: Name=MRF49XAmboard

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetMRF49XAmboard_434_9 Pin=U1-40
+Removed Pin From Net: NetName=NetMRF49XAmboard_434_10 Pin=U1-47
+Added Pin To Net: NetName=NetMRF49XAmboard_868_10 Pin=U1-40
+Added Pin To Net: NetName=NetMRF49XAmboard_868_9 Pin=U1-47
+Added Pin To Net: NetName=NetMRF49XAmboard_434_9 Pin=U1-95
+Added Pin To Net: NetName=NetMRF49XAmboard_434_10 Pin=U1-97

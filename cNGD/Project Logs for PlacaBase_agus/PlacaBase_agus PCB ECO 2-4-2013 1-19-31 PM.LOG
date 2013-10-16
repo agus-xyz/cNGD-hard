@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=hd40-06
+Removed Pin From Net: NetName=Nethd40_07 Pin=hd40-07
+Added Pin To Net: NetName=Nethd40_07 Pin=hd40-06
+Added Pin To Net: NetName=VCC Pin=hd40-07
+Change Net Name : Old Net Name=Nethd40_07 New Net Name=Nethd40_06

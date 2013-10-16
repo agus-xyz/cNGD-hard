@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : C:\Users\Acer\Dropbox\pfc\altium\transceiver\MRF49XAmboard.PcbDoc
+Date         : 16/09/2013
+Time         : 14:12:56
+Time Elapsed : 00:00:00

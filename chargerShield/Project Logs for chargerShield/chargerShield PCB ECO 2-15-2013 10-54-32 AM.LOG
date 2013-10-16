@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=RES
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1 New DesignItemId=RES
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=resistor
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=resistor

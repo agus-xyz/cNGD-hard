@@ -1,0 +1,11 @@
+Added Component: Designator=LED2(radial_led)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Pin To Net: NetName=Nethd40_23 Pin=hd40-23
+Added Pin To Net: NetName=Nethd40_23 Pin=LED2-1
+Added Net: Name=Nethd40_23
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R3-2
+Added Net: Name=NetLED2_2
+Added Member To Class: ClassName=chargerShield Member=Component LED2 LED
+Added Member To Class: ClassName=chargerShield Member=Component R3 resistor

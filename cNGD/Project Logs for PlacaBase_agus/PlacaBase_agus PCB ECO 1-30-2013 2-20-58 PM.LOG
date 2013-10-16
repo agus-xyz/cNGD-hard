@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=868RESET Pin=MRF49XAmboard-2
+Removed Pin From Net: NetName=868WAKE Pin=MRF49XAmboard-3
+Removed Pin From Net: NetName=868INT Pin=MRF49XAmboard-4
+Removed Pin From Net: NetName=868SDO Pin=MRF49XAmboard-5
+Removed Pin From Net: NetName=868SCK Pin=MRF49XAmboard-6
+Removed Pin From Net: NetName=868SDI Pin=MRF49XAmboard-7
+Removed Pin From Net: NetName=868CS Pin=MRF49XAmboard-8
+Removed Pin From Net: NetName=NetC12_2 Pin=MRF49XAmboard-10
+Removed Member From Class: ClassName=U_oscillators Member=C13
+Removed Member From Class: ClassName=U_transc_MIWI868 Member=MRF49XAmboard
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C14 NewDesignator=C16
+Change Component Designator: OldDesignator=C15 NewDesignator=C17
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=MRF49XAmboard NewDesignator=MRF49XAmboard_434
+Change Component Designator: OldDesignator=MRF49XAmboard NewDesignator=MRF49XAmboard_868
+Added Pin To Net: NetName=434RESET Pin=MRF49XAmboard_434-2
+Added Pin To Net: NetName=434WAKE Pin=MRF49XAmboard_434-3
+Added Pin To Net: NetName=434INT Pin=MRF49XAmboard_434-4
+Added Pin To Net: NetName=434SDO Pin=MRF49XAmboard_434-5
+Added Pin To Net: NetName=434SCK Pin=MRF49XAmboard_434-6
+Added Pin To Net: NetName=434SDI Pin=MRF49XAmboard_434-7
+Added Pin To Net: NetName=434CS Pin=MRF49XAmboard_434-8
+Added Pin To Net: NetName=NetC11_2 Pin=MRF49XAmboard_434-10
+Change Net Name : Old Net Name=434CS New Net Name=NetMRF49XAmboard_434_8
+Change Net Name : Old Net Name=434INT New Net Name=NetMRF49XAmboard_434_4
+Change Net Name : Old Net Name=434PWR New Net Name=NetPC_434_6
+Change Net Name : Old Net Name=434RESET New Net Name=NetMRF49XAmboard_434_2
+Change Net Name : Old Net Name=434SCK New Net Name=NetMRF49XAmboard_434_6
+Change Net Name : Old Net Name=434SDI New Net Name=NetMRF49XAmboard_434_7
+Change Net Name : Old Net Name=434SDO New Net Name=NetMRF49XAmboard_434_5
+Change Net Name : Old Net Name=434WAKE New Net Name=NetMRF49XAmboard_434_3
+Change Net Name : Old Net Name=868CS New Net Name=NetMRF49XAmboard_868_8
+Change Net Name : Old Net Name=868INT New Net Name=NetMRF49XAmboard_868_4
+Change Net Name : Old Net Name=868PWR New Net Name=NetPC_868_6
+Change Net Name : Old Net Name=868RESET New Net Name=NetMRF49XAmboard_868_2
+Change Net Name : Old Net Name=868SCK New Net Name=NetMRF49XAmboard_868_6
+Change Net Name : Old Net Name=868SDI New Net Name=NetMRF49XAmboard_868_7
+Change Net Name : Old Net Name=868SDO New Net Name=NetMRF49XAmboard_868_5
+Change Net Name : Old Net Name=868WAKE New Net Name=NetMRF49XAmboard_868_3
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC18_2
+Added Member To Class: ClassName=U_oscillators Member=Component C17 Cap
+Added Member To Class: ClassName=U_transc_MIWI868 Member=Component MRF49XAmboard_868 868trans

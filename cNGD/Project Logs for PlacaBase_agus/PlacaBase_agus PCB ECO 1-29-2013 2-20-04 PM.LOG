@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=VCC5.0_POWER Pin=C9-2
+Removed Pin From Net: NetName=868RESET Pin=MRF49XAmboard-2
+Removed Pin From Net: NetName=868WAKE Pin=MRF49XAmboard-3
+Removed Pin From Net: NetName=868INT Pin=MRF49XAmboard-4
+Removed Pin From Net: NetName=868SDO Pin=MRF49XAmboard-5
+Removed Pin From Net: NetName=868SCK Pin=MRF49XAmboard-6
+Removed Pin From Net: NetName=868SDI Pin=MRF49XAmboard-7
+Removed Pin From Net: NetName=868CS Pin=MRF49XAmboard-8
+Removed Pin From Net: NetName=NetC12_2 Pin=MRF49XAmboard-10
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=VCC5.0_POWER Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetA_SW_1 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-1
+Added Pin To Net: NetName=434RESET Pin=MRF49XAmboard-2
+Added Pin To Net: NetName=868RESET Pin=MRF49XAmboard-2
+Added Pin To Net: NetName=434WAKE Pin=MRF49XAmboard-3
+Added Pin To Net: NetName=868WAKE Pin=MRF49XAmboard-3
+Added Pin To Net: NetName=434INT Pin=MRF49XAmboard-4
+Added Pin To Net: NetName=868INT Pin=MRF49XAmboard-4
+Added Pin To Net: NetName=434SDO Pin=MRF49XAmboard-5
+Added Pin To Net: NetName=868SDO Pin=MRF49XAmboard-5
+Added Pin To Net: NetName=434SCK Pin=MRF49XAmboard-6
+Added Pin To Net: NetName=868SCK Pin=MRF49XAmboard-6
+Added Pin To Net: NetName=434SDI Pin=MRF49XAmboard-7
+Added Pin To Net: NetName=868SDI Pin=MRF49XAmboard-7
+Added Pin To Net: NetName=434CS Pin=MRF49XAmboard-8
+Added Pin To Net: NetName=868CS Pin=MRF49XAmboard-8
+Added Pin To Net: NetName=NetC11_2 Pin=MRF49XAmboard-10
+Added Pin To Net: NetName=NetC12_2 Pin=MRF49XAmboard-10
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-11
+Added Pin To Net: NetName=GND Pin=MRF49XAmboard-12
+Added Room: Name=U_headers
+Added Room: Name=U_MCU
+Added Room: Name=U_oscillators
+Added Room: Name=U_PGE
+Added Room: Name=U_power_supply
+Added Room: Name=U_transc_MIWI434
+Added Room: Name=U_transc_MIWI868
+Added Room: Name=U_transc_MIWI2400

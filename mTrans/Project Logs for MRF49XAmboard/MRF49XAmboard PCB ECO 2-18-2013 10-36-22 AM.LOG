@@ -1,0 +1,22 @@
+Added Component: Designator=L3(1608[0603])
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=RF_NEG Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RF_POS Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=RF_NEG Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=L1-2
+Added Pin To Net: NetName=RF_POS Pin=L2-1
+Added Pin To Net: NetName=RF_NEG Pin=L2-2
+Added Pin To Net: NetName=RF_POS Pin=L3-1
+Added Pin To Net: NetName=NetC5_1 Pin=L3-2
+Added Member To Class: ClassName=MRF49XAmboard Member=Component C5 Cap
+Added Member To Class: ClassName=MRF49XAmboard Member=Component C6 Cap
+Added Member To Class: ClassName=MRF49XAmboard Member=Component C7 Cap
+Added Member To Class: ClassName=MRF49XAmboard Member=Component C8 Cap
+Added Member To Class: ClassName=MRF49XAmboard Member=Component L1 L
+Added Member To Class: ClassName=MRF49XAmboard Member=Component L2 L
+Added Member To Class: ClassName=MRF49XAmboard Member=Component L3 L

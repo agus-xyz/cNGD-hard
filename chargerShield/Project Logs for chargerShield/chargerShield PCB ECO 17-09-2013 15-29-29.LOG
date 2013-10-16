@@ -1,0 +1,4 @@
+Added Component: Designator=J1(Conector ED-1631)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Member To Class: ClassName=chargerShield Member=Component J1 Power 12v

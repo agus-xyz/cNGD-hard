@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PlacaBase_agus.PcbDoc   3/7/2013  2:37:09 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PlacaBase_agus.TXT
+EIA File   : PlacaBase_agus.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          119              655.45 mm (25.81 Inch)
+T2        0.65mm (25.591mil)       Round          43               174.70 mm (6.88 Inch)
+T3        0.7mm (27.559mil)        Round          2                3.10 mm (0.12 Inch)
+T4        0.7112mm (28mil)         Round          7                41.70 mm (1.64 Inch)
+T5        0.8mm (31.496mil)        Round          2                5.00 mm (0.20 Inch)
+T6        0.85mm (33.465mil)       Round          2                4.60 mm (0.18 Inch)
+T7        0.889mm (35mil)          Round          6                17.30 mm (0.68 Inch)
+T8        0.9mm (35.433mil)        Round          3                5.08 mm (0.20 Inch)
+T9        1mm (39.37mil)           Round          2                7.80 mm (0.31 Inch)
+T10       1.2mm (47.244mil)        Round          12               58.61 mm (2.31 Inch)
+T11       2.794mm (110mil)         Round          3                12.08 mm (0.48 Inch)
+T12       3.3mm (129.921mil)       Round          8                162.36 mm (6.39 Inch)
+T13       3.302mm (130mil)         Round          2                10.16 mm (0.40 Inch)
+---------------------------------------------------------------------------
+Totals                                            211              1157.94 mm (45.59 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

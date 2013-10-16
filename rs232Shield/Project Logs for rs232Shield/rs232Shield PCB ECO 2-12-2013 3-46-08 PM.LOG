@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=VCC Pin=hd40-28
+Removed Pin From Net: NetName=GND Pin=hd40-30
+Removed Pin From Net: NetName=GND Pin=hd40-31
+Change Component DesignItemId : Designator=hd40 Old DesignItemId=header_cognitiveNGD New DesignItemId=header_cognitiveNGD_shields
+Change Component Footprint: Designator=hd40 Old Footprint=HEADER_COGNITIVENGD New Footprint=header_cognitiveNGD_longlegs
+Change Component Comment : Designator=hd40 Old Comment=header_cognitiveNGD New Comment=header_cognitiveNGD_shields
+Added Component: Designator=C1(0603[1608] pol)
+Added Component: Designator=C2(0603[1608] pol)
+Added Component: Designator=C3(0603[1608] pol)
+Added Component: Designator=C4(0603[1608] pol)
+Added Component: Designator=C5(0603[1608] pol)
+Added Component: Designator=C6(1608[0603])
+Added Component: Designator=C7(1608[0603])
+Added Component: Designator=Puerto Serie(DSUB1.385-2H9)
+Added Component: Designator=U?(NSO16_N)
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=Puerto Serie-5
+Added Pin To Net: NetName=GND Pin=Puerto Serie-10
+Added Pin To Net: NetName=GND Pin=Puerto Serie-11
+Added Pin To Net: NetName=NetC2_1 Pin=U?-3
+Added Pin To Net: NetName=Nethd40_20 Pin=U?-9
+Added Pin To Net: NetName=Nethd40_37 Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=VCC Pin=U?-16
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U?-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U?-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U?-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U?-6
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U?-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetPuerto Serie_2 Pin=Puerto Serie-2
+Added Pin To Net: NetName=NetPuerto Serie_2 Pin=U?-7
+Added Net: Name=NetPuerto Serie_2
+Added Pin To Net: NetName=NetPuerto Serie_3 Pin=Puerto Serie-3
+Added Pin To Net: NetName=NetPuerto Serie_3 Pin=U?-8
+Added Net: Name=NetPuerto Serie_3
+Added Class: Name=RS232
+Added Room: Name=RS232

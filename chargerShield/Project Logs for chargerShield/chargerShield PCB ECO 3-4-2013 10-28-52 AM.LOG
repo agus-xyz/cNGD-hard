@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=hd40-30
+Removed Pin From Net: NetName=NetC1_1 Pin=U2-2
+Added Component: Designator=D1(DIO10.46-5.3x2.8)
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=hd40-30
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=chargerShield Member=Component D1 Diode 1N4007

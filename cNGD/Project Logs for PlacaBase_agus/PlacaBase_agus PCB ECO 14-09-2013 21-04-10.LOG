@@ -1,0 +1,14 @@
+Added Component: Designator=PC_868(SOT23-6_L)
+Added Component: Designator=PC_2400(SOT23-6_L)
+Added Pin To Net: NetName=NetC13_2 Pin=PC_868-1
+Added Pin To Net: NetName=VCC Pin=PC_868-2
+Added Pin To Net: NetName=GND Pin=PC_868-3
+Added Pin To Net: NetName=VCC Pin=PC_868-4
+Added Pin To Net: NetName=NetPC_868_6 Pin=PC_868-6
+Added Pin To Net: NetName=NetC14_2 Pin=PC_2400-1
+Added Pin To Net: NetName=VCC Pin=PC_2400-2
+Added Pin To Net: NetName=GND Pin=PC_2400-3
+Added Pin To Net: NetName=VCC Pin=PC_2400-4
+Added Pin To Net: NetName=NetPC_2400_6 Pin=PC_2400-6
+Added Member To Class: ClassName=TRANS_868 Member=Component PC_868 ADG701BRTZ
+Added Member To Class: ClassName=TRANS_2400 Member=Component PC_2400 ADG701BRTZ

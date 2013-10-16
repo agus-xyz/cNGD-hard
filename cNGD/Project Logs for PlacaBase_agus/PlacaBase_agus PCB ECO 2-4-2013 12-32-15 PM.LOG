@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Nethd40_12 Pin=hd40-12
+Removed Pin From Net: NetName=GND Pin=hd40-13
+Removed Pin From Net: NetName=Net_3 Pin=hd40-14
+Removed Pin From Net: NetName=Net_2 Pin=hd40-15
+Removed Pin From Net: NetName=VCC5.0_POWER Pin=hd40-16
+Removed Pin From Net: NetName=Net_4 Pin=hd40-17
+Removed Pin From Net: NetName=Nethd40_12 Pin=U1-29
+Removed Pin From Net: NetName=Nethd40_18 Pin=U1-43
+Added Pin To Net: NetName=Net_3 Pin=hd40-12
+Added Pin To Net: NetName=Net_2 Pin=hd40-13
+Added Pin To Net: NetName=VCC5.0_POWER Pin=hd40-14
+Added Pin To Net: NetName=GND Pin=hd40-15
+Added Pin To Net: NetName=Net_4 Pin=hd40-16
+Added Pin To Net: NetName=Nethd40_12 Pin=hd40-17
+Added Pin To Net: NetName=Nethd40_18 Pin=U1-29
+Added Pin To Net: NetName=Nethd40_12 Pin=U1-43
+Change Net Name : Old Net Name=Nethd40_12 New Net Name=Nethd40_17

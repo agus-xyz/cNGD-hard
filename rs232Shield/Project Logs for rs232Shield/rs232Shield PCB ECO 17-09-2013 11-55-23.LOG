@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Nethd40_20 Pin=hd40-20
+Removed Pin From Net: NetName=Nethd40_37 Pin=hd40-37
+Added Pin To Net: NetName=Nethd40_20 Pin=hd40-21
+Added Pin To Net: NetName=Nethd40_37 Pin=hd40-38
+Change Net Name : Old Net Name=Nethd40_20 New Net Name=Nethd40_21
+Change Net Name : Old Net Name=Nethd40_37 New Net Name=Nethd40_38
+Added Room: Name=RS232

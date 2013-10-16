@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=MRF49XAmboard_434-10
+Removed Pin From Net: NetName=GND Pin=MRF49XAmboard_434-11
+Removed Pin From Net: NetName=NetC13_2 Pin=MRF49XAmboard_868-10
+Removed Pin From Net: NetName=GND Pin=MRF49XAmboard_868-11
+Change Component Library : Designator=MRF49XAmboard_434 Old Library=agus_lib.IntLib New Library=agus_lib.SchLib
+Change Component Library : Designator=MRF49XAmboard_868 Old Library=agus_lib.IntLib New Library=agus_lib.SchLib
+Added Pin To Net: NetName=NetC12_2 Pin=MRF49XAmboard_434-11
+Added Pin To Net: NetName=NetC13_2 Pin=MRF49XAmboard_868-11
+Added Pin To Net: NetName=NetMRF49XAmboard_434_9 Pin=MRF49XAmboard_434-9
+Added Pin To Net: NetName=NetMRF49XAmboard_434_9 Pin=U1-40
+Added Net: Name=NetMRF49XAmboard_434_9
+Added Pin To Net: NetName=NetMRF49XAmboard_434_10 Pin=MRF49XAmboard_434-10
+Added Pin To Net: NetName=NetMRF49XAmboard_434_10 Pin=U1-47
+Added Net: Name=NetMRF49XAmboard_434_10
+Added Pin To Net: NetName=NetMRF49XAmboard_868_9 Pin=MRF49XAmboard_868-9
+Added Net: Name=NetMRF49XAmboard_868_9
+Added Pin To Net: NetName=NetMRF49XAmboard_868_10 Pin=MRF49XAmboard_868-10
+Added Net: Name=NetMRF49XAmboard_868_10
+Added Pin To Net: NetName=NetU1_95 Pin=U1-95
+Added Net: Name=NetU1_95
+Added Pin To Net: NetName=NetU1_97 Pin=U1-97
+Added Net: Name=NetU1_97
+Added Member To Class: ClassName=U_power_supply Member=Component  J1_microUSB

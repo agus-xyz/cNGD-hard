@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetPC_434_6 Pin=R16-1
+Removed Pin From Net: NetName=NetPC_868_6 Pin=R17-1
+Removed Pin From Net: NetName=NetPC_2400_6 Pin=R18-1
+Change Component Comment : Designator=MRF49XAmboard_434 Old Comment=434trans New Comment=MRF49XAmboard
+Change Component Library : Designator=MRF49XAmboard_868 Old Library=agus_lib.SchLib New Library=agus_lib.IntLib
+Change Component Library : Designator=MRF49XAmboard_434 Old Library=PlacaBase_agus.SCHLIB New Library=agus_lib.IntLib
+Added Pin To Net: NetName=VCC Pin=R16-1
+Added Pin To Net: NetName=VCC Pin=R17-1
+Added Pin To Net: NetName=VCC Pin=R18-1

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetPuerto Serie_2 Pin=rs232-2
+Removed Pin From Net: NetName=NetPuerto Serie_3 Pin=rs232-3
+Removed Pin From Net: NetName=GND Pin=rs232-5
+Removed Pin From Net: NetName=GND Pin=rs232-10
+Removed Pin From Net: NetName=GND Pin=rs232-11
+Removed Member From Class: ClassName=RS232 Member=rs232
+Added Component: Designator=J1(DSUB1.385-2H9)
+Added Pin To Net: NetName=NetPuerto Serie_2 Pin=J1-2
+Added Pin To Net: NetName=NetPuerto Serie_3 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Change Net Name : Old Net Name=NetPuerto Serie_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetPuerto Serie_3 New Net Name=NetJ1_3
+Added Member To Class: ClassName=RS232 Member=Component J1 rs232

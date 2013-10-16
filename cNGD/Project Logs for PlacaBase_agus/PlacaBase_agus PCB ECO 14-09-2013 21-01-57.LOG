@@ -1,0 +1,7 @@
+Added Component: Designator=PC_434(SOT23-6_L)
+Added Pin To Net: NetName=NetMRF49XAmboard_434_11 Pin=PC_434-1
+Added Pin To Net: NetName=VCC Pin=PC_434-2
+Added Pin To Net: NetName=GND Pin=PC_434-3
+Added Pin To Net: NetName=VCC Pin=PC_434-4
+Added Pin To Net: NetName=NetPC_434_6 Pin=PC_434-6
+Added Member To Class: ClassName=TRANS_434 Member=Component PC_434 ADG701BRTZ

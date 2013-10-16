@@ -1,0 +1,14 @@
+Change Component Library : Designator=PC_868 Old Library=agus_lib.IntLib New Library=PlacaBase_agus.SCHLIB
+Change Component Library : Designator=PC_2400 Old Library=agus_lib.IntLib New Library=PlacaBase_agus.SCHLIB
+Added Component: Designator=J1_microUSB(microUSB AB)
+Added Pin To Net: NetName=VCC5.0_POWER Pin=J1_microUSB-1
+Added Pin To Net: NetName=Nethd40_13 Pin=J1_microUSB-2
+Added Pin To Net: NetName=Nethd40_12 Pin=J1_microUSB-3
+Added Pin To Net: NetName=Nethd40_06 Pin=J1_microUSB-4
+Added Pin To Net: NetName=GND Pin=J1_microUSB-5
+Added Pin To Net: NetName=GND Pin=J1_microUSB-6
+Added Pin To Net: NetName=GND Pin=J1_microUSB-6
+Added Pin To Net: NetName=GND Pin=J1_microUSB-6
+Added Pin To Net: NetName=GND Pin=J1_microUSB-6
+Added Pin To Net: NetName=GND Pin=J1_microUSB-6
+Added Member To Class: ClassName=POWER SUPPLY Member=Component J1_microUSB

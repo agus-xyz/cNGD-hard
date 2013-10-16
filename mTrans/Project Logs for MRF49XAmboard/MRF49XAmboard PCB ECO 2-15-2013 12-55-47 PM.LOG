@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Member From Class: ClassName=MRF49XAmboard Member=D1
+Change Component DesignItemId : Designator=J1 Old DesignItemId=19-46-2-TGG New DesignItemId=SMA 50OHM PCB launcher
+Change Component Footprint: Designator=J1 Old Footprint=19-46-2_A New Footprint=SMA PCB LAUNCHER
+Change Component Comment : Designator=J1 Old Comment=19-46-2-TGG New Comment=SMA 50OHM PCB launcher
+Added Component: Designator=LED1(1608[0603])
+Added Pin To Net: NetName=NetD1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetLED1_1
+Added Member To Class: ClassName=MRF49XAmboard Member=Component LED1 LED_SMD_Hg

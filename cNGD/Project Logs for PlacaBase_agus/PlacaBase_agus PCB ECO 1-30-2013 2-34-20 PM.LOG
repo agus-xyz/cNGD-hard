@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetLED5g_1 Pin=SW1-2
+Added Component: Designator=R15(1608[0603])
+Added Pin To Net: NetName=NetLED5g_1 Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Member To Class: ClassName=U_power_supply Member=Component R15 R

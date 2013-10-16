@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Nethd40_10 Pin=U1-58
+Removed Pin From Net: NetName=Nethd40_11 Pin=U1-59
+Added Pin To Net: NetName=Nethd40_11 Pin=U1-58
+Added Pin To Net: NetName=Nethd40_10 Pin=U1-59
+Added Member To Class: ClassName=U_power_supply Member=Component  J1_microUSB
